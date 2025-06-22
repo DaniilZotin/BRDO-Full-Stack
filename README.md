@@ -56,7 +56,10 @@ $\color{#E3C678}{{POST}}$ /api/v1/schools/ - Create new school<br/>
 ## Set up
 23.06.2025 I will done deploy to AWS that why you can do not set UP it 
 
-##Schema
+## Schema
+![image](https://github.com/user-attachments/assets/0f2d0937-d24b-406b-bdb1-3f63690854cd)
+
+
 
 
 
