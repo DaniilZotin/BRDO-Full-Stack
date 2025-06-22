@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/DaniilZotin/BRDO-front-end.git
+[submodule "back"]
+	path = back
+	url = https://github.com/DaniilZotin/BRDO-back-end.git
