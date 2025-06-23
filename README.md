@@ -21,7 +21,7 @@ Swagger
 (http://16.170.133.209:8080/swagger-ui/index.html#/)
 
 $\color{#55AE5B}{{GET}}$  /api/v1/schools/ - Get all school with filters and pagination<br/>
-$\color{#FF0000}{{DELETE}}$ /api/v1/schools/{id}/deactivate - Deactivate school<br/>
+$\color{#55edb3}{{PATCH}}$ /api/v1/schools/{id}/deactivate - Deactivate school<br/>
 $\color{#E3C678}{{POST}}$ /api/v1/schools/ - Create new school<br/>
 
 ## Build with
