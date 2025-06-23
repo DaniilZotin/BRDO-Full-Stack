@@ -26,6 +26,7 @@ $\color{#E3C678}{{POST}}$ /api/v1/schools/ - Create new school<br/>
 ## Build with
 ### Deployment(Clouds)
 * [![Docker][Docker]][Docker-url]
+* [![Icon][Docker]][Docker-url]
   
 ### Back-end:
 * [![Spring][Spring]][Spring-url]
