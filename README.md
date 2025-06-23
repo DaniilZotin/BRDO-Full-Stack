@@ -26,7 +26,11 @@ $\color{#E3C678}{{POST}}$ /api/v1/schools/ - Create new school<br/>
 ## Build with
 ### Deployment(Clouds)
 * [![Docker][Docker]][Docker-url]
-* [![Icon][Docker]][Docker-url]
+* [![S3][S3]][S3-url]
+* [![RDS][RDS]][RDS-url]
+* [![VPC][VPC]][VPC-url]
+* [![IAM][IAM]][IAM-url]
+* [![EC2][EC2]][EC2-url]
   
 ### Back-end:
 * [![Spring][Spring]][Spring-url]
@@ -100,6 +104,21 @@ $\color{#E3C678}{{POST}}$ /api/v1/schools/ - Create new school<br/>
 
 [Spring]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io/projects/spring-framework
+
+[S3]: https://img.shields.io/badge/AWS-(S3)-108a0a?style=for-the-badge
+[S3-url]: https://www.cloudflare.com/en-gb/lp/pg-cloudflare-r2-vs-aws-s3/?utm_medium=cpc&utm_source=google&utm_campaign=2023-q4-acq-gbl-developers-r2-ge-general-paygo_mlt_all_g_search_bg_exp__dev&utm_content=r2-competitor&gad_source=1&gad_campaignid=20580233211&gbraid=0AAAAADnzVeS3tbAd3GjI7r3h2NzC17aMp&gclid=CjwKCAjw9uPCBhATEiwABHN9K2smKz-L2y80nDw-XK245BLTh8Pgv0P8gybCbw0ktmf3vPh2PZh1rxoCo_QQAvD_BwE&gclsrc=aw.ds
+
+[RDS]: https://img.shields.io/badge/AWS-(RDS)-122ea1?style=for-the-badge
+[RDS-url]: https://aws.amazon.com/rds/
+
+[VPC]: https://img.shields.io/badge/AWS-(VPC)-5b23b0?style=for-the-badge
+[VPC-url]:  https://aws.amazon.com/vpc/
+
+[IAM]: https://img.shields.io/badge/AWS-(IAM)-bd1528?style=for-the-badge
+[IAM-url]:  https://aws.amazon.com/iam/
+
+[EC2]: https://img.shields.io/badge/AWS-(EC2)-e0ae24?style=for-the-badge
+[EC2-url]:  https://aws.amazon.com/ec2/
 
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com/
