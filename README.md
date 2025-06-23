@@ -14,8 +14,10 @@ Hi, this repo has full stack project to show mini school CRM system.
 
 
 ## About the project
-A system for working with passwords that has endpoints:
-23.06.2025 also here you will see deployed swagger
+A system for working with schools that has endpoints:
+
+Swagger
+(http://16.170.133.209:8080/swagger-ui/index.html#/)
 
 $\color{#55AE5B}{{GET}}$  /api/v1/schools/ - Get all school with filters and pagination<br/>
 $\color{#FF0000}{{DELETE}}$ /api/v1/schools/{id}/deactivate - Deactivate school<br/>
