@@ -5,6 +5,7 @@
   </a>
 
 <h3 align="center" >Full stack school system</h3>
+http://myschoolapp-ex.s3-website.eu-north-1.amazonaws.com/
 
 </div>
 
@@ -21,13 +22,18 @@ $\color{#FF0000}{{DELETE}}$ /api/v1/schools/{id}/deactivate - Deactivate school<
 $\color{#E3C678}{{POST}}$ /api/v1/schools/ - Create new school<br/>
 
 ## Build with
+### Deployment(Clouds)
+* [![Docker][Docker]][Docker-url]
+  
+### Back-end:
+* [![Spring][Spring]][Spring-url]
+* [![OpenJDK][OpenJDK]][Docker-url]
+* [![POSTGRESQL][POSTGRESQL]][POSTGRESQL-url]
+
+### Front-end:
 * [![TS][TS]][TS-url]
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
-* [![Spring][Spring]][Spring-url]
-* [![Docker][Docker]][Docker-url]
-* [![OpenJDK][OpenJDK]][Docker-url]
-* [![POSTGRESQL][POSTGRESQL]][POSTGRESQL-url]
 
 ## Skills I demonstrated:
 1. Frontend
