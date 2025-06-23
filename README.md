@@ -11,6 +11,7 @@ http://myschoolapp-ex.s3-website.eu-north-1.amazonaws.com/
 
 ## Introduction
 Hi, this repo has full stack project to show mini school CRM system.
+Project link can be unsafe because I did not set up CloudFront yet
 
 
 ## About the project
