@@ -10,8 +10,8 @@ http://myschoolapp-ex.s3-website.eu-north-1.amazonaws.com/
 </div>
 
 ## Introduction
-Hi, this repo has full stack project to show mini school CRM system.
-Project link can be unsafe because I did not set up CloudFront yet
+Hi, this repo has full stack project to show mini school CRM system. <br>
+#### Project link can be unsafe because I did not set up CloudFront
 
 
 ## About the project
